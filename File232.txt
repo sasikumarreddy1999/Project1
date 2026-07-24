@@ -1,0 +1,1 @@
+Question: Are you pushing from an AWS EC2 Linux server or from your local machine? From your prompt (root@ip-172-31-8-241), it looks like an EC2 instance, but I want to confirm before guiding you through the SSH setup.
